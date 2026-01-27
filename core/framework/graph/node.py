@@ -1165,6 +1165,7 @@ Keep the same JSON structure but with shorter content values.
 
         # All local extraction failed - use LLM as last resort
         import os
+
         from framework.llm.litellm import LiteLLMProvider
 
         logger.info(f"      cleanup_llm_model param: {cleanup_llm_model}")

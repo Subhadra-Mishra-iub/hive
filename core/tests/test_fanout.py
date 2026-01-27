@@ -22,7 +22,6 @@ from framework.graph.goal import Goal
 from framework.graph.node import NodeContext, NodeProtocol, NodeResult, NodeSpec
 from framework.runtime.core import Runtime
 
-
 # --- Test node implementations ---
 
 
